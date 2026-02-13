@@ -20,19 +20,27 @@ a:hover {
   /* color: #B01C33; */
 }
 
-heading {
+h2.heading {
   font-size: 22px;
+  font-weight: normal;
+  line-height: inherit;
+  margin: 0;
   /* color: #fb8b05; */
 }
 
-papertitle {
+h3.papertitle {
   font-size: 18px;
   font-weight: bold;
+  line-height: inherit;
+  margin: 0;
+  display: inline;
 }
 
-name {
+h1.name {
   font-size: 36px;
-  line-height:130%;
+  line-height: 130%;
+  font-weight: normal;
+  margin: 0;
 }
 
 note {
